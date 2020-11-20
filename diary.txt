@@ -1,0 +1,12 @@
+# diary.txt
+Date        Start     Stop     Activity                                                     Comments
+
+28/07/2020  12.19 am  2.18 am  get the basic idea of the assn and project init little code  passed examples0 and Test0
+
+08/08/2020  1.15 pm   6.09 pm  large piece code writing and debug                           passed examples[012] and Test[012]
+
+09/08/2020  2.11 pm   3.40 pm  writing and debug                                            passed examples3 and Test3
+
+09/08/2020  3.52 pm   4.19 pm  writing and debug                                            passed examples4 except primes and series
+
+09/08/2020  4.20 pm   4.45 pm  final test and ready for submission
